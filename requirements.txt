@@ -1,0 +1,10 @@
+gradio
+llama-index
+openai
+faiss-cpu
+tiktoken
+PyPDF2
+langchain
+langchain-community
+langchainhub
+jedi
